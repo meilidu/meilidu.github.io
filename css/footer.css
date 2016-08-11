@@ -43,13 +43,13 @@
 @media only screen and (max-width: 40em) {
   .footer__element {
     width: 100%;
-    font-size: 2rem;
+    font-size: 1.2rem;
   }
 }
 @media only screen and (min-width: 40.063em) and (max-width: 64em) {
   .footer__element {
     width: 50%;
-    font-size: 2rem;
+    font-size: 1.2rem;
   }
 }
 .footer-links {
