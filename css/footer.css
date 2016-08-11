@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "Noto Sans";
+  src: url("fonts/Noto_Sans/NotoSans-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Noto Sans";
+  src: url("fonts/Noto_Sans/NotoSans-Italic.ttf");
+  font-style: italic;
+}
+@font-face {
+  font-family: "Noto Serif";
+  src: url("fonts/Noto_Serif/NotoSerif-Regular.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-familiy: "Inconsolata";
+  src: url("fonts/Inconsolata/Inconsolata-Regular.ttf");
+}
+.footer {
+  background-color: #33474d;
+  color: #f9fafa;
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.footer p {
+  margin: 0;
+}
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  width: 50rem;
+}
+.footer__element {
+  padding: 1rem;
+  width: 12.5rem;
+  box-sizing: border-box;
+}
+@media only screen and (max-width: 40em) {
+  .footer__element {
+    width: 100%;
+    font-size: 2rem;
+  }
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  .footer__element {
+    width: 50%;
+    font-size: 2rem;
+  }
+}
+.footer-links {
+  margin: 0;
+  padding: 0;
+}
+.footer-links__link {
+  list-style-type: none;
+}
+.footer-links__link a {
+  text-shadow: 0.03em 0 #33474d, -0.03em 0 #33474d, 0 0.03em #33474d, 0 -0.03em #33474d, 0.06em 0 #33474d, -0.06em 0 #33474d, 0.09em 0 #33474d, -0.09em 0 #33474d, 0.12em 0 #33474d, -0.12em 0 #33474d, 0.15em 0 #33474d, -0.15em 0 #33474d;
+  background-image: linear-gradient(#f9fafa, #f9fafa);
+  background-size: 1px 1px;
+  background-repeat: repeat-x;
+  background-position: 0% 95%;
+  color: #f9fafa;
+  text-decoration: none;
+}
+.footer-links__link a::selection {
+  text-shadow: 0.03em 0 #f9fafa, -0.03em 0 #f9fafa, 0 0.03em #f9fafa, 0 -0.03em #f9fafa, 0.06em 0 #f9fafa, -0.06em 0 #f9fafa, 0.09em 0 #f9fafa, -0.09em 0 #f9fafa, 0.12em 0 #f9fafa, -0.12em 0 #f9fafa, 0.15em 0 #f9fafa, -0.15em 0 #f9fafa;
+  background: #f9fafa;
+}
+.footer-links__link a::-moz-selection {
+  text-shadow: 0.03em 0 #f9fafa, -0.03em 0 #f9fafa, 0 0.03em #f9fafa, 0 -0.03em #f9fafa, 0.06em 0 #f9fafa, -0.06em 0 #f9fafa, 0.09em 0 #f9fafa, -0.09em 0 #f9fafa, 0.12em 0 #f9fafa, -0.12em 0 #f9fafa, 0.15em 0 #f9fafa, -0.15em 0 #f9fafa;
+  background: #f9fafa;
+}
+.footer-links__link a *,
+.footer-links__link a *:after,
+.footer-links__link a:after,
+.footer-links__link a *:before,
+.footer-links__link a:before {
+  text-shadow: none;
+}
+.footer-links__link a:visited {
+  color: #f9fafa;
+}
+.footer-links__link a:hover {
+  text-shadow: 0.03em 0 #33474d, -0.03em 0 #33474d, 0 0.03em #33474d, 0 -0.03em #33474d, 0.06em 0 #33474d, -0.06em 0 #33474d, 0.09em 0 #33474d, -0.09em 0 #33474d, 0.12em 0 #33474d, -0.12em 0 #33474d, 0.15em 0 #33474d, -0.15em 0 #33474d;
+  background-image: linear-gradient(#0ba6d7, #0ba6d7);
+  background-size: 1px 1px;
+  background-repeat: repeat-x;
+  background-position: 0% 95%;
+  color: #0ba6d7;
+  text-decoration: none;
+}
+.footer-links__link a:hover::selection {
+  text-shadow: 0.03em 0 #0ba6d7, -0.03em 0 #0ba6d7, 0 0.03em #0ba6d7, 0 -0.03em #0ba6d7, 0.06em 0 #0ba6d7, -0.06em 0 #0ba6d7, 0.09em 0 #0ba6d7, -0.09em 0 #0ba6d7, 0.12em 0 #0ba6d7, -0.12em 0 #0ba6d7, 0.15em 0 #0ba6d7, -0.15em 0 #0ba6d7;
+  background: #0ba6d7;
+}
+.footer-links__link a:hover::-moz-selection {
+  text-shadow: 0.03em 0 #0ba6d7, -0.03em 0 #0ba6d7, 0 0.03em #0ba6d7, 0 -0.03em #0ba6d7, 0.06em 0 #0ba6d7, -0.06em 0 #0ba6d7, 0.09em 0 #0ba6d7, -0.09em 0 #0ba6d7, 0.12em 0 #0ba6d7, -0.12em 0 #0ba6d7, 0.15em 0 #0ba6d7, -0.15em 0 #0ba6d7;
+  background: #0ba6d7;
+}
+.footer-links__link a:hover *,
+.footer-links__link a:hover *:after,
+.footer-links__link a:hover:after,
+.footer-links__link a:hover *:before,
+.footer-links__link a:hover:before {
+  text-shadow: none;
+}
+.footer-links__link a:hover:visited {
+  color: #0ba6d7;
+}
