@@ -31,6 +31,9 @@ article {
   article h1 {
     overflow: hidden;
   }
+  article p a {
+    word-break: normal;
+  }
   p a,
   blockquote a,
   figure a {
