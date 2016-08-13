@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://127.0.0.1:4000/"/>
-  <updated>2016-08-12T13:59:18.476Z</updated>
+  <updated>2016-08-13T09:48:50.526Z</updated>
   <id>http://127.0.0.1:4000/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://127.0.0.1:4000/2016/08/11/meilidu/"/>
     <id>http://127.0.0.1:4000/2016/08/11/meilidu/</id>
     <published>2016-08-11T10:31:06.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to MeiliDu, <em>A beautiful read</em> indeed.</p>
 <p>This theme is focused around your readers reading your posts. It is created for text and code heavy posts, brightened by images. Find it on <a href="https://github.com/HoverBaum/meilidu-hexo" target="_blank" rel="external">GitHub</a>.</p>
@@ -49,7 +49,7 @@
     <link href="http://127.0.0.1:4000/2016/07/11/inspiration/"/>
     <id>http://127.0.0.1:4000/2016/07/11/inspiration/</id>
     <published>2016-07-11T10:31:06.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>Have a list of cool things that inspired me to create this theme.</p>
 <a id="more"></a>
@@ -82,7 +82,7 @@
     <link href="http://127.0.0.1:4000/2013/12/26/images/"/>
     <id>http://127.0.0.1:4000/2013/12/26/images/</id>
     <published>2013-12-26T22:46:49.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a image test post.</p>
 <p><figure class="figure"><img src="/assets/wallpaper-2572384.jpg" alt=""></figure></p>
@@ -111,7 +111,7 @@
     <link href="http://127.0.0.1:4000/2013/12/25/no-title/"/>
     <id>http://127.0.0.1:4000/2013/12/25/no-title/</id>
     <published>2013-12-25T22:57:49.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This post doesn’t have a title. Make sure it’s accessible.</p>
 ]]></content>
@@ -131,7 +131,7 @@
     <link href="http://127.0.0.1:4000/2013/12/25/excerpts/"/>
     <id>http://127.0.0.1:4000/2013/12/25/excerpts/</id>
     <published>2013-12-25T00:23:23.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>The following contents should be invisible in home/archive page.</p>
 <a id="more"></a>
@@ -153,7 +153,7 @@
     <link href="http://127.0.0.1:4000/2013/12/25/videos/"/>
     <id>http://127.0.0.1:4000/2013/12/25/videos/</id>
     <published>2013-12-25T00:19:15.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a video test post.</p>
 <p><strong>Youtube</strong></p>
@@ -177,7 +177,7 @@
     <link href="http://127.0.0.1:4000/2013/12/25/gallery-post/"/>
     <id>http://127.0.0.1:4000/2013/12/25/gallery-post/</id>
     <published>2013-12-25T00:16:18.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>Currently not supported (maybe later, let me know what you think)</p>
 <p>This post contains 4 photos:</p>
@@ -208,7 +208,7 @@
     <link href="http://127.0.0.1:4000/2013/12/25/tag-plugins/"/>
     <id>http://127.0.0.1:4000/2013/12/25/tag-plugins/</id>
     <published>2013-12-25T00:14:39.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This post is used for testing tag plugins. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.</p>
 <h2 id="Block-Quote"><a href="#Block-Quote" class="headerlink" title="Block Quote"></a>Block Quote</h2><h3 id="Normal-blockquote"><a href="#Normal-blockquote" class="headerlink" title="Normal blockquote"></a>Normal blockquote</h3><blockquote>
@@ -250,7 +250,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/link-post-without-title/"/>
     <id>http://127.0.0.1:4000/2013/12/24/link-post-without-title/</id>
     <published>2013-12-24T23:44:13.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open <a href="http://www.google.com/" target="_blank" rel="external">Google</a> in a new tab or window.</p>
 ]]></content>
@@ -269,7 +269,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
     <id>http://127.0.0.1:4000/2013/12/24/日本語テスト/</id>
     <published>2013-12-24T23:33:26.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a Japanese test post.</p>
 <p>私は昨日ついにその助力家というのの上よりするたなけれ。</p>
@@ -300,7 +300,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
     <id>http://127.0.0.1:4000/2013/12/24/中文測試/</id>
     <published>2013-12-24T23:31:30.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a Chinese test post.</p>
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。</p>
@@ -329,7 +329,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/long-title/"/>
     <id>http://127.0.0.1:4000/2013/12/24/long-title/</id>
     <published>2013-12-24T23:31:06.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This post has a long title. Make sure the title displayed right.</p>
 ]]></content>
@@ -349,7 +349,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/categories/"/>
     <id>http://127.0.0.1:4000/2013/12/24/categories/</id>
     <published>2013-12-24T23:30:09.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>
 ]]></content>
@@ -375,7 +375,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/link-post/"/>
     <id>http://127.0.0.1:4000/2013/12/24/link-post/</id>
     <published>2013-12-24T23:30:04.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This is a link post. But MeiliDu does not support link posts because that is not what this is for.</p>
 ]]></content>
@@ -395,7 +395,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/tags/"/>
     <id>http://127.0.0.1:4000/2013/12/24/tags/</id>
     <published>2013-12-24T23:29:53.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>This post contains 3 tags. Make sure your theme can display all of the tags.</p>
 ]]></content>
@@ -421,7 +421,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/elements/"/>
     <id>http://127.0.0.1:4000/2013/12/24/elements/</id>
     <published>2013-12-24T23:29:08.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.</p>
 <hr>
@@ -487,7 +487,7 @@
     <link href="http://127.0.0.1:4000/2013/12/24/hello-world/"/>
     <id>http://127.0.0.1:4000/2013/12/24/hello-world/</id>
     <published>2013-12-24T17:49:32.000Z</published>
-    <updated>2016-08-12T13:59:18.476Z</updated>
+    <updated>2016-08-13T09:48:50.526Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs" target="_blank" rel="external">documentation</a> to learn how to use.</p>
 ]]></content>
