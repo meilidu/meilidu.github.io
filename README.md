@@ -2,7 +2,7 @@
 
 ![Travis indicator](https://travis-ci.org/HoverBaum/meilidu-hexo.svg)
 
-This repository is for the [Demo website](meilidu.github.io), find the theme in it's [Repo](https://github.com/HoverBaum/meilidu-hexo).
+This repository is for the [Demo website](https://meilidu.github.io), find the theme in it's [Repo](https://github.com/HoverBaum/meilidu-hexo).
 
 Workflow:
 
